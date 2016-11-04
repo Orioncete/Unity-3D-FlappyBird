@@ -10,9 +10,15 @@ El objetivo del juego es sobrepasar tantas barreras como sea posible controlando
 
 El vuelo del pájaro se controla mediante pulsaciones del boton izquierdo del ratón o la tecla CTRL Izquierda.
 
-### Como arrancarlo ###
+### Instrucciones de uso ###
 
-Descargue los ficheros en una sola carpeta y ejecute el archivo index.html en su navegador
+## Para jugar ##
+
+Instalar la carpeta 'FlappyBirdWebGL' en un servidor y ejecutar el archivo index.html contenido en ella.
+
+## Para edición ##
+
+Abrir la carpeta 'FlappyBirdUnityProject' como proyecto de Unity.
 
 ### Contribution guidelines ###
 

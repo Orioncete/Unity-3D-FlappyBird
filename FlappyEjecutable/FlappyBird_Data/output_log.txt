@@ -1,0 +1,64 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 8370D (ID=0x9998)
+    Vendor:   ATI
+    VRAM:     992 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\unity\PROYECTOS\FlappyBirdCODE\FlappyEjecutable\FlappyBird_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\unity\PROYECTOS\FlappyBirdCODE\FlappyEjecutable\FlappyBird_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\unity\PROYECTOS\FlappyBirdCODE\FlappyEjecutable\FlappyBird_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\unity\PROYECTOS\FlappyBirdCODE\FlappyEjecutable\FlappyBird_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\unity\PROYECTOS\FlappyBirdCODE\FlappyEjecutable\FlappyBird_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\unity\PROYECTOS\FlappyBirdCODE\FlappyEjecutable\FlappyBird_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\unity\PROYECTOS\FlappyBirdCODE\FlappyEjecutable\FlappyBird_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\unity\PROYECTOS\FlappyBirdCODE\FlappyEjecutable\FlappyBird_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.053 seconds
+Platform assembly: D:\unity\PROYECTOS\FlappyBirdCODE\FlappyEjecutable\FlappyBird_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\unity\PROYECTOS\FlappyBirdCODE\FlappyEjecutable\FlappyBird_Data\Managed\System.dll (this message is harmless)
+desktop: 1280x1024 60Hz; virtual: 3200x1080 at -1920,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 3200x1080 at -1920,0
+<RI> Initialized touch support.
+UnloadTime: 1.139500 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1728 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.761310 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 271.
+Total: 0.209046 ms (FindLiveObjects: 0.026893 ms CreateObjectMapping: 0.009426 ms MarkObjects: 0.159696 ms  DeleteObjects: 0.005545 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.539529 ms
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 204.
+Total: 0.280577 ms (FindLiveObjects: 0.034933 ms CreateObjectMapping: 0.008594 ms MarkObjects: 0.177717 ms  DeleteObjects: 0.057945 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.449700 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 271.
+Total: 0.219305 ms (FindLiveObjects: 0.026061 ms CreateObjectMapping: 0.008872 ms MarkObjects: 0.176885 ms  DeleteObjects: 0.006376 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.564205 ms
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 204.
+Total: 0.324937 ms (FindLiveObjects: 0.030220 ms CreateObjectMapping: 0.011921 ms MarkObjects: 0.222354 ms  DeleteObjects: 0.059331 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.449145 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 271.
+Total: 0.217364 ms (FindLiveObjects: 0.025507 ms CreateObjectMapping: 0.008317 ms MarkObjects: 0.176608 ms  DeleteObjects: 0.006099 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.564205 ms
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 204.
+Total: 0.246753 ms (FindLiveObjects: 0.022734 ms CreateObjectMapping: 0.007763 ms MarkObjects: 0.162191 ms  DeleteObjects: 0.052954 ms)
+
